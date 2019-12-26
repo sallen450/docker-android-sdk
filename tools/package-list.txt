@@ -83,7 +83,7 @@ extras;m2repository;com;android;support;constraint;constraint-layout-solver;1.0.
 extras;m2repository;com;android;support;constraint;constraint-layout-solver;1.0.1
 extras;m2repository;com;android;support;constraint;constraint-layout-solver;1.0.2
 lldb;3.1
-ndk-bundle
+ndk;18.1.5063045
 patcher;v4
 platform-tools
 platforms;android-10
